@@ -1,0 +1,59 @@
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\ResolveAssemblyReference.cache
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3_player.Form1.resources
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3_player.Properties.Resources.resources
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.csproj.GenerateResource.Cache
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\bin\Debug\mp3-player.exe
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\bin\Debug\mp3-player.pdb
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.exe
+\\oslo\Home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\bin\Debug\mp3-player.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\bin\Debug\mp3-player.pdb
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\ResolveAssemblyReference.cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3_player.Form1.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3_player.Properties.Resources.resources
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.csproj.GenerateResource.Cache
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.exe
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.pdb
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\bin\Debug\mp3-player.exe
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\bin\Debug\mp3-player.pdb
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3_player.Form1.resources
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3_player.Properties.Resources.resources
+H:\Visual Studio 2008\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.csproj.GenerateResource.Cache
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.exe
+\\oslo.scms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.pdb
+H:\Visual Studio 2010\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.exe
+H:\Visual Studio 2010\Projects\mp3-player\mp3-player\obj\Debug\mp3-player.pdb
+H:\104-c#\pracP4-mp3s\mp3-player\bin\Debug\mp3-player.exe
+H:\104-c#\pracP4-mp3s\mp3-player\bin\Debug\mp3-player.pdb
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3-player.csprojResolveAssemblyReference.cache
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3_player.Form1.resources
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3_player.Properties.Resources.resources
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3-player.csproj.GenerateResource.Cache
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3-player.csproj.CoreCompileInputs.cache
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3-player.exe
+H:\104-c#\pracP4-mp3s\mp3-player\obj\Debug\mp3-player.pdb
+H:\104-c#\pracP4-mp3s\mp3-player\bin\Debug\csCompactMusicLibrary.dll
+H:\104-c#\pracP4\mp3-player\bin\Debug\mp3-player.exe
+H:\104-c#\pracP4\mp3-player\bin\Debug\mp3-player.pdb
+H:\104-c#\pracP4\mp3-player\bin\Debug\csCompactMusicLibrary.dll
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3-player.csprojResolveAssemblyReference.cache
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3_player.Form1.resources
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3_player.Properties.Resources.resources
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3-player.csproj.GenerateResource.Cache
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3-player.csproj.CoreCompileInputs.cache
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3-player.exe
+H:\104-c#\pracP4\mp3-player\obj\Debug\mp3-player.pdb
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\bin\Debug\mp3-player.exe
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\bin\Debug\mp3-player.pdb
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\bin\Debug\csCompactMusicLibrary.dll
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3-player.csproj.AssemblyReference.cache
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3_player.Form1.resources
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3_player.Properties.Resources.resources
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3-player.csproj.GenerateResource.cache
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3-player.csproj.CoreCompileInputs.cache
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3-player.csproj.CopyComplete
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3-player.exe
+H:\COMPX102\Prac\PracP4\PracP4-Task1\mp3-player\obj\Debug\mp3-player.pdb
