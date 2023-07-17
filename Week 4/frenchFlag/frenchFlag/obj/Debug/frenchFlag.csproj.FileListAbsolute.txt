@@ -1,0 +1,11 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\bin\Debug\frenchFlag.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\bin\Debug\frenchFlag.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\bin\Debug\frenchFlag.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\frenchFlag\frenchFlag\obj\Debug\frenchFlag.pdb

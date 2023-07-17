@@ -1,0 +1,11 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\bin\Debug\morraGame.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\bin\Debug\morraGame.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\bin\Debug\morraGame.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\morraGame\morraGame\obj\Debug\morraGame.pdb
