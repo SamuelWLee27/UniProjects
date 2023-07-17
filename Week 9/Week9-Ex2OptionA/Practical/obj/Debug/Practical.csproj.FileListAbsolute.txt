@@ -1,0 +1,11 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\bin\Debug\Practical.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\bin\Debug\Practical.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\bin\Debug\Practical.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 9\Week9-Ex2OptionA\Practical\obj\Debug\Practical.pdb
