@@ -1,0 +1,22 @@
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\bin\Debug\Week10-Ex2.exe.config
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\bin\Debug\Week10-Ex2.exe
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\bin\Debug\Week10-Ex2.pdb
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.AssemblyReference.cache
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10_Ex2.Form1.resources
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10_Ex2.Properties.Resources.resources
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.GenerateResource.cache
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.exe
+C:\Users\sl408\source\repos\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\bin\Debug\Week10-Ex2.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\bin\Debug\Week10-Ex2.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\bin\Debug\Week10-Ex2.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10_Ex2.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10_Ex2.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 10\Week10-Ex2\Week10-Ex2\obj\Debug\Week10-Ex2.pdb
