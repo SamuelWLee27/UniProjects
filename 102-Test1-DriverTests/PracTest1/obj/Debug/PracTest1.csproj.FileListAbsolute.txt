@@ -1,0 +1,55 @@
+H:\COMPX102\2022\PracTest1\PracTest1\bin\Debug\PracTest1.exe.config
+H:\COMPX102\2022\PracTest1\PracTest1\bin\Debug\PracTest1.exe
+H:\COMPX102\2022\PracTest1\PracTest1\bin\Debug\PracTest1.pdb
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.AssemblyReference.cache
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.Form1.resources
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.Properties.Resources.resources
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.GenerateResource.cache
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.CoreCompileInputs.cache
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.exe
+H:\COMPX102\2022\PracTest1\PracTest1\obj\Debug\PracTest1.pdb
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\bin\Debug\PracTest1.exe.config
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\bin\Debug\PracTest1.exe
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\bin\Debug\PracTest1.pdb
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.AssemblyReference.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.SuggestedBindingRedirects.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.Form1.resources
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.Properties.Resources.resources
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.GenerateResource.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.csproj.CoreCompileInputs.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.exe
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1\PracTest1\obj\Debug\PracTest1.pdb
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.csproj.AssemblyReference.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.csproj.SuggestedBindingRedirects.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.Form1.resources
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.Properties.Resources.resources
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.csproj.GenerateResource.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.csproj.CoreCompileInputs.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.exe
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\obj\Debug\PracTest1.pdb
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\bin\Debug\PracTest1.exe.config
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\bin\Debug\PracTest1.exe
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-Solution-2022b\PracTest1\bin\Debug\PracTest1.pdb
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.csproj.AssemblyReference.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.csproj.SuggestedBindingRedirects.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.Form1.resources
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.Properties.Resources.resources
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.csproj.GenerateResource.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.csproj.CoreCompileInputs.cache
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.exe
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\obj\Debug\PracTest1.pdb
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\bin\Debug\PracTest1.exe.config
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\bin\Debug\PracTest1.exe
+\\resource.waikato.ac.nz\filer\comp\FCMS\Teaching\cs-tutors\secure\Courses\COMPX102\2022\PracTests\PracTest1\PracTest1-Version B-TemplateNew-2022b\PracTest1\bin\Debug\PracTest1.pdb
+H:\COMPX102\102-Test1-DriverTests\PracTest1\bin\Debug\PracTest1.exe.config
+H:\COMPX102\102-Test1-DriverTests\PracTest1\bin\Debug\PracTest1.exe
+H:\COMPX102\102-Test1-DriverTests\PracTest1\bin\Debug\PracTest1.pdb
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.csproj.AssemblyReference.cache
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.Form1.resources
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.Properties.Resources.resources
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.csproj.GenerateResource.cache
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.csproj.CoreCompileInputs.cache
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.exe
+H:\COMPX102\102-Test1-DriverTests\PracTest1\obj\Debug\PracTest1.pdb
