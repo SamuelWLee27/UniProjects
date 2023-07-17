@@ -1,0 +1,8 @@
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\bin\Debug\Practical.exe.config
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\bin\Debug\Practical.exe
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\bin\Debug\Practical.pdb
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.csproj.AssemblyReference.cache
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.exe
+H:\COMPX102\Prac\PracP2\PracP2-Task1\Practical\obj\Debug\Practical.pdb

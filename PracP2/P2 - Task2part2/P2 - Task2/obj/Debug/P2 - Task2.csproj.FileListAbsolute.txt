@@ -1,0 +1,22 @@
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\bin\Debug\P2 - Task2.exe.config
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\bin\Debug\P2 - Task2.exe
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\bin\Debug\P2 - Task2.pdb
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2 - Task2.csproj.AssemblyReference.cache
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2 - Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2___Task2.Form1.resources
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2___Task2.Properties.Resources.resources
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2 - Task2.csproj.GenerateResource.cache
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2 - Task2.csproj.CoreCompileInputs.cache
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2 - Task2.exe
+C:\Users\sl408\source\repos\P2 - Task2\P2 - Task2\obj\Debug\P2 - Task2.pdb
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\bin\Debug\P2 - Task2.exe.config
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\bin\Debug\P2 - Task2.exe
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\bin\Debug\P2 - Task2.pdb
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2 - Task2.csproj.AssemblyReference.cache
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2 - Task2.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2___Task2.Form1.resources
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2___Task2.Properties.Resources.resources
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2 - Task2.csproj.GenerateResource.cache
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2 - Task2.csproj.CoreCompileInputs.cache
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2 - Task2.exe
+H:\COMPX102\Prac\PracP2\P2 - Task2part2\P2 - Task2\obj\Debug\P2 - Task2.pdb
