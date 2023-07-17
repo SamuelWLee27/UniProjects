@@ -1,0 +1,65 @@
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\bin\Debug\PracTest2.exe.config
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\bin\Debug\PracTest2.exe
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\bin\Debug\PracTest2.pdb
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\obj\Debug\PracTest2.csprojResolveAssemblyReference.cache
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\obj\Debug\PracTest2.Form1.resources
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\obj\Debug\PracTest2.Properties.Resources.resources
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\obj\Debug\PracTest2.csproj.GenerateResource.Cache
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\obj\Debug\PracTest2.exe
+\\oslo.cms.waikato.ac.nz\home\nkanji\documents\visual studio 2013\Projects\PracTest2\PracTest2\obj\Debug\PracTest2.pdb
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\bin\Debug\PracTest2.exe.config
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\obj\Debug\PracTest2.exe
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\obj\Debug\PracTest2.pdb
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\bin\Debug\PracTest2.exe
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\bin\Debug\PracTest2.pdb
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\obj\Debug\PracTest2.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\obj\Debug\PracTest2.Form1.resources
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\obj\Debug\PracTest2.Properties.Resources.resources
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Solution\PracTest2\obj\Debug\PracTest2.csproj.GenerateResource.Cache
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\bin\Debug\PracTest2.exe.config
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.exe
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.pdb
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\bin\Debug\PracTest2.exe
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\bin\Debug\PracTest2.pdb
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.Form1.resources
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.Properties.Resources.resources
+H:\Visual Studio 2013\Projects\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.csproj.GenerateResource.Cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Gold-Template\PracTest2\bin\Debug\PracTest2.exe.config
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-Gold-Template\PracTest2\obj\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\bin\Debug\PracTest2.exe.config
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\obj\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\bin\Debug\PracTest2.exe.config
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\obj\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\bin\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\bin\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\obj\Debug\PracTest2.csprojResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\obj\Debug\PracTest2.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\obj\Debug\PracTest2.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Solutions\103-PracTest2-HandBags-Solution\PracTest2\obj\Debug\PracTest2.csproj.GenerateResource.Cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\bin\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\bin\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\obj\Debug\PracTest2.csprojResolveAssemblyReference.cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\obj\Debug\PracTest2.Form1.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\obj\Debug\PracTest2.Properties.Resources.resources
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-Template\PracTest2\obj\Debug\PracTest2.csproj.GenerateResource.Cache
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-2015B\PracTest2\bin\Debug\PracTest2.exe.config
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-2015B\PracTest2\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-2015B\PracTest2\obj\Debug\PracTest2.pdb
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-2016B\PracTest2\bin\Debug\PracTest2.exe.config
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-2016B\PracTest2\obj\Debug\PracTest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP103\Practests\Practest2\Templates\103-PracTest2-HandBags-2016B\PracTest2\obj\Debug\PracTest2.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\bin\Debug\PracTest2.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\bin\Debug\PracTest2.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\bin\Debug\PracTest2.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\PracTest2\101-PracTest2-HandBags-2022A\PracTest2\obj\Debug\PracTest2.pdb

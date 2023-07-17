@@ -1,0 +1,30 @@
+Declare variables
+TRY
+   Get user input
+   IF number of bags is valid THEN
+     FOR handBags drawn is less and = to rows needed
+        FOR col less then 10
+           IF square drawn is a multple of 3 THEN
+             colour = Purple
+           ELSE
+             colour = Red
+           ENDIF
+           Draw square at current x and y
+           shift x by square + gap
+        ENDFOR
+        Set x to orignal place
+        Shift y by square + gap
+     ENDFOR
+   ElSE
+     Display error message
+     Clear the picturebox
+     Clear the textbox
+     Set focus to the textbox
+   ENDIF
+
+CATCH
+   Display error message
+   Clear the picturebox
+   Clear the textbox
+   Set focus to the textbox
+ENDTRY
