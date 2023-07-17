@@ -1,0 +1,11 @@
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\bin\Debug\PracP3-Task2.exe.config
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\bin\Debug\PracP3-Task2.exe
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\bin\Debug\PracP3-Task2.pdb
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3-Task2.csproj.AssemblyReference.cache
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3-Task2.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3_Task2.Form1.resources
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3_Task2.Properties.Resources.resources
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3-Task2.csproj.GenerateResource.cache
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3-Task2.csproj.CoreCompileInputs.cache
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3-Task2.exe
+H:\COMPX102\Prac\PracP3\PracP3-Task2\PracP3-Task2\obj\Debug\PracP3-Task2.pdb
