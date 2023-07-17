@@ -1,0 +1,11 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\bin\Debug\Week8-Ex2A.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\bin\Debug\Week8-Ex2A.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\bin\Debug\Week8-Ex2A.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8-Ex2A.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8-Ex2A.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8_Ex2A.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8_Ex2A.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8-Ex2A.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8-Ex2A.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8-Ex2A.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 8\Week8-Ex2A\Week8-Ex2A\obj\Debug\Week8-Ex2A.pdb
