@@ -1,0 +1,22 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\bin\Debug\RunLengthCoding.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\bin\Debug\RunLengthCoding.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\bin\Debug\RunLengthCoding.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 4\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\bin\Debug\RunLengthCoding.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\bin\Debug\RunLengthCoding.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\bin\Debug\RunLengthCoding.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 11 and 12\RunLengthCoding\RunLengthCoding\obj\Debug\RunLengthCoding.pdb
