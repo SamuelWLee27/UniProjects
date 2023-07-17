@@ -1,0 +1,29 @@
+Declare variables
+Set filter for dialog control
+IF user selects a file THEN
+   Draw an empty calendar (using the DrawEmptyCalendar method provided)
+   open file
+   WHILE not end of file
+    TRY
+      read in line to varivle
+      split line by , into an array
+      IF array is right length
+         Put data into varibles
+         display info in one line in listbox
+         add data to lists
+         calculate x pos
+         calculate y pos
+         draw correct coloured appointment
+         draw text
+         add on to number of appointments
+      ELSE
+         display error message
+      ENDIF
+    CATCH
+       display error message
+    ENDTRY
+   ENDWHILE
+   close file
+   display number of appointments
+
+ENDIF
