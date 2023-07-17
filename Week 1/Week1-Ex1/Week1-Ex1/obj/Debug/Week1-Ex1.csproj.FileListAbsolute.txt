@@ -1,0 +1,20 @@
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\bin\Debug\Week1-Ex1.exe.config
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\bin\Debug\Week1-Ex1.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\bin\Debug\Week1-Ex1.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.csprojResolveAssemblyReference.cache
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\obj\Debug\Week1_Ex1.Form1.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\obj\Debug\Week1_Ex1.Properties.Resources.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.csproj.GenerateResource.Cache
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2015\Projects\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\bin\Debug\Week1-Ex1.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\bin\Debug\Week1-Ex1.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\bin\Debug\Week1-Ex1.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1_Ex1.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1_Ex1.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 1\Week1-Ex1\Week1-Ex1\obj\Debug\Week1-Ex1.pdb
