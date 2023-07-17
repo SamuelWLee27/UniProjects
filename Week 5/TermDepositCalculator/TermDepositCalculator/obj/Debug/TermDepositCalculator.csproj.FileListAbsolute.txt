@@ -1,0 +1,11 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\bin\Debug\TermDepositCalculator.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\bin\Debug\TermDepositCalculator.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\bin\Debug\TermDepositCalculator.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 5\TermDepositCalculator\TermDepositCalculator\obj\Debug\TermDepositCalculator.pdb
