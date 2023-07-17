@@ -1,0 +1,22 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX102\2021\LibraryFolder2021\Practical\Practical\bin\Debug\Practical.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX102\2021\LibraryFolder2021\Practical\Practical\bin\Debug\Practical.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX102\2021\LibraryFolder2021\Practical\Practical\bin\Debug\Practical.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX102\2021\LibraryFolder2021\Practical\Practical\obj\Debug\Practical.csprojAssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX102\2021\LibraryFolder2021\Practical\Practical\obj\Debug\Practical.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX102\2021\LibraryFolder2021\Practical\Practical\obj\Debug\Practical.pdb
+H:\COMPX102\PracP1\PracP1-Task1\Practical\bin\Debug\Practical.exe.config
+H:\COMPX102\PracP1\PracP1-Task1\Practical\bin\Debug\Practical.exe
+H:\COMPX102\PracP1\PracP1-Task1\Practical\bin\Debug\Practical.pdb
+H:\COMPX102\PracP1\PracP1-Task1\Practical\obj\Debug\Practical.csproj.AssemblyReference.cache
+H:\COMPX102\PracP1\PracP1-Task1\Practical\obj\Debug\Practical.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\PracP1\PracP1-Task1\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+H:\COMPX102\PracP1\PracP1-Task1\Practical\obj\Debug\Practical.exe
+H:\COMPX102\PracP1\PracP1-Task1\Practical\obj\Debug\Practical.pdb
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\bin\Debug\Practical.exe.config
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\bin\Debug\Practical.exe
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\bin\Debug\Practical.pdb
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\obj\Debug\Practical.csproj.AssemblyReference.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\obj\Debug\Practical.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\obj\Debug\Practical.csproj.CoreCompileInputs.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\obj\Debug\Practical.exe
+H:\COMPX102\Prac\Week 1\PracP1-Task1\Practical\obj\Debug\Practical.pdb

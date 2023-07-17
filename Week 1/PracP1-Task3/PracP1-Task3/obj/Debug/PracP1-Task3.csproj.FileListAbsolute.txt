@@ -1,0 +1,22 @@
+H:\COMPX102\PracP1-Task3\PracP1-Task3\bin\Debug\PracP1-Task3.exe.config
+H:\COMPX102\PracP1-Task3\PracP1-Task3\bin\Debug\PracP1-Task3.exe
+H:\COMPX102\PracP1-Task3\PracP1-Task3\bin\Debug\PracP1-Task3.pdb
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.AssemblyReference.cache
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1_Task3.Form1.resources
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1_Task3.Properties.Resources.resources
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.GenerateResource.cache
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.CoreCompileInputs.cache
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.exe
+H:\COMPX102\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.pdb
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\bin\Debug\PracP1-Task3.exe.config
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\bin\Debug\PracP1-Task3.exe
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\bin\Debug\PracP1-Task3.pdb
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.AssemblyReference.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.SuggestedBindingRedirects.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1_Task3.Form1.resources
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1_Task3.Properties.Resources.resources
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.GenerateResource.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.csproj.CoreCompileInputs.cache
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.exe
+H:\COMPX102\Prac\Week 1\PracP1-Task3\PracP1-Task3\obj\Debug\PracP1-Task3.pdb
