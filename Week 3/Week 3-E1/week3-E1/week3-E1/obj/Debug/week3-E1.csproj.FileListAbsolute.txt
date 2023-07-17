@@ -1,0 +1,11 @@
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3-E1.csproj.AssemblyReference.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3-E1.csproj.SuggestedBindingRedirects.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3_E1.Form1.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3_E1.Properties.Resources.resources
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3-E1.csproj.GenerateResource.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3-E1.csproj.CoreCompileInputs.cache
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\bin\Debug\week3-E1.exe.config
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\bin\Debug\week3-E1.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\bin\Debug\week3-E1.pdb
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3-E1.exe
+\\galaxy.its.waikato.ac.nz\HOME\COMPX101\Week 3\Week 3-E1\week3-E1\week3-E1\obj\Debug\week3-E1.pdb
