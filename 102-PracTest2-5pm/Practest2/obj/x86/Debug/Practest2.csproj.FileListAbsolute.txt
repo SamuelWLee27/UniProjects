@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.exe.config
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.exe
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.pdb
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.Form1.resources
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.exe
+C:\Users\samue\OneDrive\Documents\COMPX102\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.pdb
