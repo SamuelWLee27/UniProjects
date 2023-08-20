@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\bin\Debug\PracticalTest1.exe.config
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\bin\Debug\PracticalTest1.exe
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\bin\Debug\PracticalTest1.pdb
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.Form1.resources
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.Properties.Resources.resources
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.exe
+C:\Users\samue\OneDrive\Documents\COMPX101\101-PracTest1-BeanBags-Answer\101-PracTest1-BeanBags\PracticalTest1\obj\Debug\PracticalTest1.pdb
