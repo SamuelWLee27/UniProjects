@@ -1,0 +1,19 @@
+.text
+.global main
+
+main:
+	#read switches and put lowest 8 bits  into $2
+	jal readswitches
+	
+	#add number from $1 to $2
+	add $2, $0, $1
+	
+	#Display $2
+	jal writessd
+	
+	#loop back to start of main
+	j main
+.data
+
+
+

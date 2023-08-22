@@ -1,0 +1,64 @@
+.text
+.global main
+
+main:
+	#read switches and put lowest 8 bits  into $2
+	jal readswitches
+	
+	#makes $4 equal 8
+	addi $4, $0, 8
+	
+	#make $2 equal 0
+	add $2, $0, $0
+	
+	#get number for switches on
+	jal count
+	
+	#get number from encrypt array at pos $2
+	lw $2, encrypt($2)
+	
+	#Display $2
+	jal writessd
+	
+	#loop back to start of main
+	j main
+	
+#counts number of switches on
+count:
+
+	#checks if switch is on
+	andi $3, $1, 1
+	
+	#if switch is on add to count in $2
+	add $2, $2, $3
+	
+	#shift binary number to the right
+	srli $1, $1, 1
+	
+	#subtract one from $4 
+	subi $4, $4, 1
+	
+	#if $4 equal 0 stop loop
+	bnez $4, count 
+	
+	#jump out of count
+	jr $ra
+	
+
+	
+
+.data
+	#array of hexadecimal numbers
+encrypt:
+	.word 0xA3
+	.word 0x22
+	.word 0x6B
+	.word 0x0D
+	.word 0x49
+	.word 0x90
+	.word 0x7F
+	.word 0xB8
+	.word 0x51
+
+
+
