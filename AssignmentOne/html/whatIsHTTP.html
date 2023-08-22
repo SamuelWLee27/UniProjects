@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<!-- HTTP info web page -->
+<html>
+	<head>
+		<link rel="stylesheet" href="../css/style.css">
+	</head>
+	<body>
+		
+		<header class="boxes" id="Title">
+			<!-- web page title -->
+			<h1>What is HTTP?</h1>
+		</header>
+		<!-- grid -->
+		<div class="outermost_div">
+			<!-- left side of web page -->
+			<div class="boxes">
+				<!-- this div is used to discribe Http used 2 levels of h tags, p tag, 3 span tags, and a bulleted list -->
+				<div>
+					<!-- image of HTTP in browser search bar for HTTP page -->
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/HTTP.jpg">
+						<source media="(min-width:720px)" media="(max-width: 999)" srcset="../images/HTTP720.jpg">
+						<source media="(max-width:721px)" srcset="../images/HTTP340.jpg">
+
+						<img src="../images/HTTP.jpg" alt="HTTP in browser search bar">
+					</picture>
+					<h2>HTTP</h2>
+					<!-- span tags used to highlight words being explained -->
+					<p>HTTP is an abbreviation for hypertext transfer protocol. HTTP is used to define how <span style="color: rgb(255, 174, 0);">entities</span> dealing with the movement of <span style="color: rgb(255, 174, 0);">hypertext</span> 
+						documents on <span style="color: rgb(255, 174, 0);">the network</span> should communicate with each other.</p>
+
+						<!-- bulleted list explaining highlighted words -->
+					<ul>
+						<li>Entities are web browsers and web servers (software applications).</li>
+						<li>HyperText documents are web pages and the resources they use</li>
+						<li>The network is the local network or something broader or worldwide</li>
+					</ul>
+
+					<p>Basically HTTP is the main method used to transfer data from web pages over a network. Servers store web pages, which are then accessed by the
+						user making a client request by searching something. Without HTTP, the world wide web (www) would not exist. As it is created from server client connections forming a network.</p>
+
+					<p>A big issue with HTTP is that data over a HTTP connection is not encrypted, so it runs the risk of third-party interference from attackers trying to steal information. As information over a network using HTTP is not private, sensitive information like credit card data is vulnerable if submitted on a HTTP page.</p>
+					
+					<h3>How it works</h3>
+					<p>A request message describing what the client is trying to retrieve is sent by the browser to the server. Then a response message is sent by the server to the browser describing how it coped
+						with the request, along with the requested resource if available. This all takes place in a manner of milliseconds. So, for example you search www.cms.waikato.ac.nz. The request for this web page is sent to the server. Then the server sends a response back with the result of the request. Then the results are displayed by the client to the user.</p>
+				</div>
+				<!-- explianation of HTTPS -->
+				<div>
+					<h2>How does HTTPS work?</h2>
+					<p>HTTPS stands for hyper transfer protocol secure. Unlike HTTP, HTTPS is encrypted. HTTPS uses SSL (secure sockets layer) which is able to secure a connection and verify that the site is legitimate. SSL creates a secure, encrypted connection between browser and a server, that is able to protect the layer of communication between the two.</p>
+					<p>HTTPS is important because it adds a layer of protection to prevent third-party attackers from getting important sensitive data. This is extremely important for websites that involve transactions or when your users need to enter their real information.</p>
+				</div>
+			</div>
+			<!-- right side of web page -->
+			<div class="boxes">
+				<!-- Explains different versions of HTTP using a bulleted list -->
+				<div>
+					<h2>Different versions of HTTP</h2>
+					<ul>
+						<li>
+							<h3>HTTP v0.9</h3>
+							<p>This is the first documented version of HTTP (1991). It has only one method, GET (a web page), and server response is always HTML web page</p>
+						</li>	
+						<li>
+							<h3>HTTPS</h3>
+							<p>Also called SSL, HTTPS is the encrypted variant of HTTP to guard against hacker attacks. It was invented in 1995, but was not widely used until recently </p>
+						</li>
+						<li>
+							<h3>HTTP v1.1</h3>
+							<p>This is the most commonly used HTTP. It has increased security, support for additional methods (e.g. PUT), and different types of responses (e.g. images) </p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<!-- This div is for the link back to the index page -->
+			<div class="boxes" id="Footer">
+				<a href="../index.html">Back</a>
+			</div>
+		</div>
+	</body>
+</html>

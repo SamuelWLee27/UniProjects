@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!-- request info web page -->
+<html>
+	<head>		
+		<link rel="stylesheet" href="../css/style.css">
+	</head>
+	<body>		
+		<!-- Title -->
+		<header class="boxes">
+			<h1>What is a request?</h1>
+		</header>
+		<!-- outer div for grid -->
+		<div class="outermost_div">
+			<!-- left side of web page -->
+			<div class="boxes">
+				<!-- expains basics of http request with bullet points -->
+				<div>
+					<h2>Basics of a HTTP request</h2>
+					<p>A HTTP request is made by a client, to a named host, which is located on a server. The goal is to access a resource on a server for example a web page.</p>
+					<p>A HTTP request is composed of three elements:</p>
+					<ul>
+						<li>
+							<p>A request line.</p>
+						</li>
+						<li>
+							<p>A request of specific headers.</p>
+						</li>
+						<li>
+							<p>An optional request body.</p>
+						</li>
+					</ul>
+				</div>
+				<!-- explains request line with bullet points and an image -->
+				<div>
+					<h2>Request line</h2>
+					<p>The request line consists of three things:
+						<ul>
+							<li>
+								<p>
+									The HTTP method (the operation we want to carry out on the resource). The method is a one word command that tells
+									the server what it should do with the resource requested. 
+								</p>
+							</li>
+							<li>
+								<p>The path and filename of the resource being requested.</p>
+							</li>
+							<li>
+								<p>The version of HTTP to use.</p>
+							</li>
+						</ul>
+						<p>An example of this is below.</p>
+					</p>
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/requestLine.png">
+						<source media="(min-width:721px)" media="(max-width: 999)" srcset="../images/requestLine720.png">
+						<source media="(max-width:720px)" srcset="../images/requestLine340.png">
+
+						<img src="../images/requestLine.png" alt="image of request line">
+					</picture>
+				</div>
+				<!-- explains request headers with a example image -->
+				<div>
+					<h2>HTTP request headers</h2>
+					<p>Request specific headers add information to the request or configure aspects of the request. Example below.</p>
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/requestHeader.png">
+						<source media="(min-width:721px)" media="(max-width: 999)" srcset="../images/requestHeader720.png">
+						<source media="(max-width:720px)" srcset="../images/requestHeader340.png">
+
+						<img src="../images/requestHeader.png" alt="image of request header">
+					</picture>
+				</div>
+				<!-- explains request body -->
+				<div>
+					<h2>HTTP request body</h2>
+					<p>Sometimes the request body plus the header request do not always contain all the information needed. This is when a request body comes into play. As request bodies are only appropriate for some request methods. For example, a POST method where the body of the request message is a string representing the data entered by the user. Where as the GET method, which asks the server to send a recource, does not have a request body</p>
+				</div>
+				
+			</div>
+			<!-- right side of web page-->
+			<div class="boxes">
+				<!-- Explains common errors includes a table -->
+				<div>
+					<h2>Common error codes</h2>
+					<p>There are two status code categories that when recieved in a response message means an error has occured. These are client errors (4xx: bad request syntax, can't be fulfilled) and server errors (5xx: request seende valid but could not fulfill it). Some common client and server errors are in the table below</p>
+					<table>
+						<caption>Common errors</caption>
+						<thead>
+							<tr>
+								<th>Code</th><th>Error</th><th>Discription</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td>403</td><td>Forbidden</td><td>The request was legal but the server refuses to erspond (e.g. Don't have sufficient permission).</td>
+							</tr>
+							<tr>
+								<td>404</td><td>Not Found</td><td>The server can't find the requested resource (e.g. The path and filename do not resolve to a locatable file).</td>
+							</tr>
+							<tr>
+								<td>500</td><td>Internal Server Error</td><td>The server failed when processinnf the request but not further details are avalible</td>
+							</tr>
+							<tr>
+								<td>505</td><td>HTTP Version Not Supported</td><td>The server does not support the version of HTTP given in the request line.</td>
+							</tr>
+						</tbody>
+				</table>
+				</div>
+			</div>
+		</div>
+		<!-- link back to index page -->
+		<footer class="boxes">
+				<a href="../index.html">Back</a>
+		</footer>
+	</body>
+</html>
