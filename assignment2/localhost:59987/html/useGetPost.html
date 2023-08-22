@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<!-- post and get info web page -->
+<html>
+	<head>
+		<link rel="stylesheet" href="../css/style.css">
+	</head>
+	<body>
+		<!-- title of web page-->
+		<header class="boxes">
+			<h1>When to use Get and Post?</h1>	
+		</header>
+		<!-- small intro to get verse post -->
+		<div class="boxes" style="background-color: black;">
+			<h2>GET vs POST</h2>
+			<p>The GET and POST methods are two of the most common HTTP methods. The main difference between them is GET requests data from the server where the POST method is used to send data for the server to process.</p>	
+		</div>
+		<!-- Grid -->
+		<div class="outermost_div">
+			<!-- info about post with image left side of grid-->
+			<div class="boxes"> 
+				<div>
+					<h2>GET method</h2>
+					<p>The HTTP GET method retrieves a specified resource from a server. This means it doesn't need a body because it does not need input data. As GET is only used to request data. When using a browser the GET method is used to download the files of the web page so the client can display them. When using the GET method you can only receive data not change its state. Therefore, it is only used to view a resource not change it. Since this data is stored in the URL that means it can be cached and remain in the browser history. But since it uses the URL the amount of data sent is limited.</p> 
+				</div>
+				<div>
+					<h2>When to use the GET method</h2>
+					<p>The GET is used when you want to view a recourse from a server. Normally a web page which includes HTML documents, CSS files, images and videos. The requested data from the server then is sent to the client then displayed.</p>
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/GET.png">
+						<source media="(min-width:721px)" media="(max-width: 999)" srcset="../images/GET720.png">
+						<source media="(max-width:720px)" srcset="../images/GET340.png">
+
+						<img src="../images/GET.png" alt="Example of GET">
+					</picture>
+				</div>
+			</div>
+			<!-- info about post method right side of grid -->
+			<div class="boxes">
+				<div>
+					<h2>POST method</h2>
+					<p>The HTTP POST method sends data to the server to be processed. Meaning the request message must have a request body. The request body contains the data to be processed by the server. The POST method is mainly used to create or update a resource. Which means it can be used to add to a particular resource/data. This data is more secure then when using a Get method as it is displayed in the HTTP message body not in the URL. Therefore, it's not stored in logs or browser history. Also, since POST uses the message body there is no limit to the amount of data it can send.</p>
+				</div>
+				<div>
+					<h2>When to use the POST method</h2>
+					<p>The POST method is used when you want to send data to the server. It is mostly used to submit forms or upload files to a server. This is because it is a lot more secure as it is not exposed in the URL bar and a lot more information can be sent as it uses the request body.</p>
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/submit.jpg">
+						<source media="(min-width:721px)" media="(max-width: 999)" srcset="../images/submit720.jpg">
+						<source media="(max-width:720px)" srcset="../images/submit340.jpg">
+
+						<img src="../images/submit.jpg" alt="image of word submit">
+					</picture>
+				</div>
+			</div>
+			<!-- back to index page button -->
+			<footer class="boxes">
+				<a href="../index.html">Back</a>
+			</footer>
+		</div>
+	</body>
+</html>

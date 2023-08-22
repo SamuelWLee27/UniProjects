@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- How a webpage is downloaded website -->
+<html>
+	<head>
+		<link rel="stylesheet" href="../css/style.css">
+	</head>
+	<body>
+		
+		<header class="boxes" id="Title">
+			<!-- title -->
+			<h1>How is a web page downloaded?</h1>
+		</header>
+		<div class="outermost_div">
+			<div class="boxes">
+				<!-- this div uses underlines, an ordered list and an unordered list to explain what happens when you search for a website -->
+				<div>
+					<h2>What happens when you search for a web page</h2>
+					<ol>
+						<li>
+							<u>User searches a web page in the search bar</u>
+							<p>eg. User puts www.cms.waikato.ac.nz in the search bar of a browser.</p>
+						</li>
+						<li>
+							<u>Client sends a HTTP request to the server</u>
+							<p>Request messages sent using HTTP include a request line followed by request 
+								for specific headers and then a optional request body.</p>
+						</li>
+						<li>
+							<u>HTTP returns a status code response from the server</u>
+							<p>There are 5 categories for a status code:</p> 
+							<ul>
+								<li>1xx information (request received, continuing) [100,101,102]</li>
+								<li>2xx success (action received, understood, accepted) [200,201,204]</li>
+								<li>3xx redirection (further action needed) [300,301,307]</li>
+								<li>4xx client error (bad request syntax, or can't be fulfilled) [403,404,408]</li>
+								<li>5xx server error (request seemed valid but server couldn't fulfill it) [500,502,503]</li>
+							</ul>	
+						</li>
+						<li>
+							<u>The client downloads web page data from the server through HTTP</u>
+							<p>The server sends what makes up the web page such HTML files, CSS files, images, and other information that makes up a webpage normally in that order.</p>
+						</li>
+					</ol>
+				</div>
+				<!-- This div uses images to help explain how and what data is received from the server -->
+				<div>
+					<h2>What data does the client get from the server</h2>
+					<p>Files that are downloaded are all the files that are used to make up the website such as HTML files, CSS files images, so on.</p>
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/filesWaterfall.png">
+						<source media="(min-width:721px)" media="(max-width: 999)" srcset="../images/filesWaterfall720.png">
+						<source media="(max-width:720px)" srcset="../images/filesWaterfall340.png">
+
+						<img src="../images/filesWaterfall.png" alt="Downloaded files and waterfall from a website">
+					</picture>
+					<p>These files all have different priorities in which order they need to be downloaded. Starting with what's essential for the website, such as HTML files which 
+						make up the structure and content of the web page. Next it's stuff like CSS files which is the styling of the pages holding stuff like the fonts, colours, ect. Followed by images. Lastly, everything that 
+						isn't really important to the website. The order in which everything is downloaded is shown in the waterfall.</p> 
+					<!-- resizable image number on file name is screen size -->
+					<picture>
+						<source media="(min-width:1000px)" srcset="../images/websiteFiles.png">
+						<source media="(min-width:721px)" media="(max-width: 999)" srcset="../images/websiteFiles720.png">
+						<source media="(max-width:720px)" srcset="../images/websiteFiles340.png">
+
+						<img src="../images/websiteFiles.png" alt="Annotated picture of downloaded files">
+					</picture>
+					<p>It is important the priorities are done this way as you need to have the HTML for the content of the website, then the css to style that content,
+						then images and stuff come up after that to complete the look of the website.</p>
+				</div>
+			</div>
+			<!-- right side of webpage-->
+			<div class="boxes">
+				<!-- This gives a unordered list of browsers dont know licensing so no images  -->
+				<div>
+					<h2>Browsers</h2>
+					<ul>
+						<li>
+							<h3>Google Chrome</h3>
+							<p>Google Chrome is a cross-platform web browser developed by Google. First released in 2008.</p>
+						</li>
+						<li>
+							<h3>Microsoft Edge</h3>
+							<p>Microsoft Edge is a proprietary, cross-platform web browser created by Microsoft. First released in 2015.</p>
+						</li>
+						<li>
+							<h3>Firefox</h3>
+							<p>Mozilla Firefox, or simply Firefox, is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. First released in 2002.</p>
+						</li>
+						<li>
+							<h3>Safari</h3>
+							<p>Safari is a web browser developed by Apple. First released in 2003.</p>
+						</li>
+
+
+					</ul>
+				</div>
+			</div>
+			<!-- link back to index web page -->
+			<footer class="boxes">
+				<a href="../index.html">Back</a>
+			</footer>
+		</div>
+	</body>
+</html>

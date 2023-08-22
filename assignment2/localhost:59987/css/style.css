@@ -1,0 +1,59 @@
+/* grid layout */
+.outermost_div{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 20px;
+    
+}
+/* style of grid boxes */
+.boxes{
+    background-color: lavender;
+    border-style: solid;
+}
+/* center image */
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* make text divs have black background */
+div > div > div{
+    background-color: black;
+}
+/* child text of div colour wheat*/
+div > p, h2, h3{
+    color: wheat;
+}
+/* center tiles and change font*/
+h1, h2, h3{
+    text-align: center;
+    font-family: serif;
+}
+/* change font for paragraphs and center*/
+p{
+    font-family: sans-serif;
+    text-align: center;
+}
+/* make unordered list and p decendeants lavender */
+ul, ul p{
+    color: lavender;
+}
+/* make ordered list and p decendeants lavender */
+ol, ol p{
+    color: lavender;
+}
+/* any table in a div make background wheat colour */
+div table{
+    background-color: wheat;
+    
+}
+/* make website background colour wheat */
+body{
+    background-color:wheat;
+}
+/* change link font */
+a{
+    font-family: sans-serif;
+    font-size: Large;
+}
+
