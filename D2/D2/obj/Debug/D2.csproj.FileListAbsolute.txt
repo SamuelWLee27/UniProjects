@@ -1,0 +1,15 @@
+H:\D2\D2\bin\Debug\D2.exe.config
+H:\D2\D2\bin\Debug\D2.exe
+H:\D2\D2\bin\Debug\D2.pdb
+H:\D2\D2\obj\Debug\D2.csproj.AssemblyReference.cache
+H:\D2\D2\obj\Debug\D2.csproj.SuggestedBindingRedirects.cache
+H:\D2\D2\obj\Debug\D2.Classes.resources
+H:\D2\D2\obj\Debug\D2.Properties.Resources.resources
+H:\D2\D2\obj\Debug\D2.csproj.GenerateResource.cache
+H:\D2\D2\obj\Debug\D2.csproj.CoreCompileInputs.cache
+H:\D2\D2\obj\Debug\D2.exe
+H:\D2\D2\obj\Debug\D2.pdb
+H:\D2\D2\obj\Debug\D2.NewClasses.resources
+H:\D2\D2\obj\Debug\D2.Certification.resources
+H:\D2\D2\obj\Debug\D2.SummaryReport.resources
+H:\D2\D2\obj\Debug\D2.StartForm.resources
