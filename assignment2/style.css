@@ -1,0 +1,55 @@
+/* show gender set and set font */
+#ageGenderSet{
+    display: block;
+    font-family: sans-serif;
+}
+/* hide cholesterol set and set font */
+#cholesterolSet{
+    display: none;
+    font-family: sans-serif;
+}
+/* hide smoker set and set font */
+#smokerSet{
+    display: none;
+    font-family: sans-serif;
+}
+/* hide blood pressure set and set font */
+#bloodPressureSet{
+    display: none;
+    font-family: sans-serif;
+}
+/* hide risk score and set font */
+#riskScore{
+    display: none;
+    font-family: sans-serif;
+}
+/* change the font for question */
+#question, legend, label {
+    font-family: sans-serif;
+}
+/* text align center for body and background*/
+body{
+    text-align: center;
+    background-color: lavender;
+}
+/* alter button padding add margin to create gap then
+font size */
+button{
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+}
+/* set button inputs for raido button and number background colour to dark green and font to white
+made border look nicer*/
+input, button{
+    background-color: darkgreen;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 4px;
+    color: white;
+    accent-color: darkgreen;
+}
+/* set title colour to dark green*/
+h1{
+    color: darkgreen;
+}

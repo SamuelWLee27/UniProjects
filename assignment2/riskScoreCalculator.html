@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<!-- HTML for Framingham risk score calculator -->
+<html>
+    <head>
+        <script src="riskScoreCalculator.js"></script>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <!-- title -->
+        <Header>
+            <h1>Framingham Risk Score Calculator</h1>
+        </Header>
+        <!-- question for each thing to calculate -->
+        <div id="question">
+            First thing you need to do is enter your age and gender.
+        </div>
+        <!-- holds number for age and radio buttons for gender -->
+        <fieldset id="ageGenderSet">
+            <legend>Age and Gender</legend>
+            <label for="age">Age(between 20 and 79):</label>
+            <!-- age on wiki is between 20 and 79 when cliked off saves age to a var -->
+            <input type="number" id="age" name="age" min="20" max="79" onblur="setAge()">
+            <p>Gender:</p>
+            <!-- starts of female when clicked saves gender as string -->
+            <div>
+                <label for="female">Female</label>
+                <input type="radio" id="female" name="gender" checked onclick="setGender()">
+                <label for="male">Male</label>
+                <input type="radio" id="male" name="gender" onclick="setGender()">
+            </div>
+        </fieldset>
+        <!-- holds info for cholesterol information -->
+        <fieldset id="cholesterolSet">
+            <legend>Cholesterol</legend>
+            <p>Enter your total cholesterol:</p>
+            <!-- number for total cholesterol starts showing 0 click off saves total cholesterol-->
+            <input type="number" id="totalCholesterol" min="0" value="0" onblur="setCholesterol()">
+            <label for="totalCholesterol">mg/dL</label>
+            <p>Enter HDL cholesterol:</p>
+            <!-- number for HDL cholesterol starts showing 0 click off saves HDL cholesterol -->
+            <input type="number" id="HDLCholesterol" min="0" value="0" onblur="setCholesterol()">
+            <label for="HDLCholesterol">mg/dL</label>
+        </fieldset>
+        <!-- holds info for smoker, radio button for smokers and non smokers -->
+        <fieldset id="smokerSet">
+            <legend>Smoking status</legend>
+            <p>Do you smoke?</p>
+            <!-- when radio button is clicked saves if smoker or not default is no-->
+            <label for="smokeYes">Yes</label>
+            <input type="radio" id="smokeYes" name="smokeStatus" onclick="setSmoker()">
+            <label for="smokeNo">No</label>
+            <input type="radio" id="smokeNo" name="smokeStatus" checked onclick="setSmoker()">
+        </fieldset>
+        <!-- holds info on users systolic blood pressure-->
+        <fieldset id="bloodPressureSet">
+            <legend>Systolic blood pressure</legend>
+            <p>Enter your systolic blood pressure:</p>
+            <!-- start value is 0 when clicked off sets blood pressure var -->
+            <input type="number" min="0" value="0" id="bloodPressure" onblur="setBloodPressure()">
+            <label for="bloodPressure">mm Hg</label>
+            <p>Is it treated?</p>
+            <!-- when radio button is clicked saves if treated or not default is no-->
+            <label for="treatedYes">Yes</label>
+            <input type="radio" id="treatedYes" name="treatedStatus" onclick="setTreated()">
+            <label for="treatedNo">No</label>
+            <input type="radio" id="treatedNo" name="treatedStatus" checked onclick="setTreated()">
+        </fieldset>
+        <!-- holds spot for risk score-->
+        <div id="riskScore">
+
+        </div>
+        <!-- footer holding reset, next and previous buttons-->
+        <footer>
+            <button type="button" onclick="reset()">Reset</button><button type="button" onclick="previous()">Previous</button><button type="button" onclick="next()">Next</button>
+        </footer>
+    </body>
+</html>
